@@ -1,0 +1,19 @@
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "newStorageAccountName": {
+      "value": "myStorageAccount"
+    },
+    "adminUsername": {
+      "value": "admin1234"
+    },
+    "adminPassword": {
+      "value": "ADmin1234_!"
+    },
+    "dnsNameForPublicIP": {
+      "value": "myDnsName"
+    }
+  }
+}
+
