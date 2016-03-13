@@ -3,25 +3,17 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "saastore2"
+      "value": "myStorageAccount"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "Passw0rd!"
+      "value": "ADmin123_!"
     },
     "dnsNameForPublicIP": {
-      "value": "saa1234"
-    },
-    "location": {
-      "value": "West US"
-    },
-    "sizeOfDiskInGB": {
-      "value": "20"
+      "value": "myDnsName"
     }
   }
 }
-
-
 
